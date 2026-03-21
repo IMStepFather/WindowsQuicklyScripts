@@ -25,4 +25,4 @@ Invoke-PS2EXE -InputFile "C:\路径\*.ps1" -OutputFile "C:\路径\*.exe" -NoCons
 ***
 **如需使用Windows系统自带图标，可以用图标导出工具**
 
-- [Windows图标导出工具](https://link.zhihu.com/?target=https%3A//wwc.lanzouw.com/ikKpy0cq4q5e) 密码：i09q
+- [Windows图标导出工具](https://wwc.lanzouw.com/ikKpy0cq4q5e) 密码：i09q
